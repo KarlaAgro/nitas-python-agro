@@ -31,7 +31,7 @@ Aquí encontrarás scripts, análisis, visualizaciones y experimentos inspirados
 
 ## Créditos
 
-Creado por **Nita**.  
+Creado por **Nitas**.  
 Con apoyo moral de ChatGPT, la UCR y el mejor café de papá ☕😉
 
 ---
