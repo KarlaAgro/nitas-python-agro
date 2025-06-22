@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-nita.png" alt="Banner Nita’s Python Agro" width="600"/>
+</p>
+
 # nitas-python-agro
 
 🌱 **Repositorio personal para experimentos y ejercicios de Python aplicados al sector agropecuario** 🌱
