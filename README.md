@@ -39,6 +39,6 @@ Con apoyo moral de ChatGPT, la UCR y el mejor café de papá ☕😉
 ## Contacto
 
 ¿Sugerencias o colaboración?  
-Escribime por [tu email aquí, opcional].
+Escribime por karla.gamboa@proton.me.
 
 ---
